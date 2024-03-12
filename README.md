@@ -1,2 +1,2 @@
-# SymmetricEncryptionPBE
-Sistena criptográfico que ofrece servicios de generación de claves pública y privada, firmar archivos, verificar firmas, cifrar con clave pública, descifrar con clave privada, listar las claves de un almacén de claves y importar las claves de un almacén. Contiene un amplio repertorio de algoritmos de cifrado y generación de firmas.
+# Cryptographic system
+Robust cryptographic system implemented in Java that offers a suite of essential cryptographic services. This system empowers users with the ability to generate public and private keys, sign files, verify signatures, encrypt using public keys, decrypt using private keys, list keys in a key store, and import keys into a key store. With a diverse set of encryption algorithms and signature generation methods, CryptoSystem is a comprehensive solution for securing sensitive data.
